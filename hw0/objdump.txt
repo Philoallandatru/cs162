@@ -1,0 +1,6 @@
+1. What's the format for this binary? What architecture it is compiled for?
+i386-elf, i386
+
+3.Which part contains function main? What's the address of main?
+.text section, 0804852d
+
